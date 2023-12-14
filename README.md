@@ -1,4 +1,4 @@
-# <h1 align="center"> Cric Stat Analyzer 🏏 </h1>
+# <h1 align="center"> Cric Stats Analyzer 🏏 </h1>
 
 <hr>
 
