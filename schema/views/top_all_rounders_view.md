@@ -44,4 +44,4 @@ This document provides the schema for the 'top_allrounders_view' in the project.
 
 ## USAGE
 
-- Can be used to **[QUERY]**(../../sql/DML/top_50_all_rounder.sql) Top 50 all rounders. **CRITERIA**: POINTS.
+- Can be used to **[QUERY](../../sql/DML/top_50_all_rounders.sql)** Top 50 all rounders. **CRITERIA**: POINTS.

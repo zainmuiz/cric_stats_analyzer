@@ -30,4 +30,4 @@ This document provides the schema for the 'top_50_bowler_view' in the project. T
 
 ## USAGE
 
-- Can be used to **[QUERY]**(../../sql/DML/top_50_bowlers.sql) Top 50 bowlers. **CRITERIA**: WICKETS
+- Can be used to **[QUERY](../../sql/DML/top_50_bowlers.sql)** Top 50 bowlers. **CRITERIA**: WICKETS

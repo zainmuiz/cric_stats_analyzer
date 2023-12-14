@@ -30,4 +30,4 @@ This document provides the schema for the 'top_50_batsmen_view' in the project. 
 
 ## USAGE
 
-- Can be used to **[QUERY]**(../../sql/DML/top_50_all_rounder.sql) Top 50 batsman. **CRITERIA** : RUNS.
+- Can be used to **[QUERY](../../sql/DML/top_50_batsmen.sql** Top 50 batsman. **CRITERIA** : RUNS.

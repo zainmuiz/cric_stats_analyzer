@@ -1,4 +1,4 @@
-# <h3 align="left"> Schema Folder - Cric Stat Analyzer 🏏 </h3>
+# <h3 align="left"> Cric Stat Analyzer 🏏 - Schema Folder </h3>
 
 <hr>
 
