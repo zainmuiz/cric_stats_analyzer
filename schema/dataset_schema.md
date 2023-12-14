@@ -1,4 +1,4 @@
-# <h1 align="center"> Statistics Dataset Introduction - Cric Stat Analyzer 🏏 </h1>
+# <h1 align="center"> Statistics Dataset Introduction - Cric Stats Analyzer 🏏 </h1>
 
 This dataset encapsulates statistical information from Men's Cricket International matches, encompassing three distinct formats: One Day Internationals (ODI), Test matches, and Twenty20 (T20) matches. The dataset is structured with four tables and ten views, each serving a specific purpose in analyzing and comprehending cricket performance.
 

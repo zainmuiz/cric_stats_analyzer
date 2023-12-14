@@ -1,4 +1,4 @@
-# <h3 align="left"> Cric Stat Analyzer 🏏 - Cloud Function</h3>
+# <h3 align="left"> Cric Stats Analyzer 🏏 - Cloud Function</h3>
 
 <hr>
 

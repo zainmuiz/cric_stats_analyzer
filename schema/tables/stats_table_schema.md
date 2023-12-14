@@ -1,4 +1,4 @@
-# <h4 align="left"> Table Schema: Stats - Cric Stat Analyzer 🏏 </h4>
+# <h4 align="left"> Table Schema: Stats - Cric Stats Analyzer 🏏 </h4>
 
 <hr>
 
