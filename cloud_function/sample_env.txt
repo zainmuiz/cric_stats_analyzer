@@ -1,0 +1,11 @@
+# Remove comment lines before running function
+
+PROJECT_ID = 
+DATASET_ID = 
+BUCKET_NAME = 
+
+# For Email Error Notification
+SENDER_EMAIL = 
+RECEIVER_EMAIL = 
+SECRET_ID = 
+SECRET_VERSION =

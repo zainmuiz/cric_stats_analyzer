@@ -1,0 +1,240 @@
+[
+  {
+    "name": "ball_data",
+    "mode": "REPEATED",
+    "type": "RECORD",
+    "description": null,
+    "fields": [
+      {
+        "name": "bowler_country",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "replacements",
+        "mode": "NULLABLE",
+        "type": "RECORD",
+        "description": null,
+        "fields": [
+          {
+            "name": "role",
+            "mode": "REPEATED",
+            "type": "RECORD",
+            "description": null,
+            "fields": [
+              {
+                "name": "role",
+                "mode": "NULLABLE",
+                "type": "STRING",
+                "description": null,
+                "fields": []
+              },
+              {
+                "name": "reason",
+                "mode": "NULLABLE",
+                "type": "STRING",
+                "description": null,
+                "fields": []
+              },
+              {
+                "name": "out",
+                "mode": "NULLABLE",
+                "type": "STRING",
+                "description": null,
+                "fields": []
+              },
+              {
+                "name": "in",
+                "mode": "NULLABLE",
+                "type": "STRING",
+                "description": null,
+                "fields": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "batsman_country",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "runs",
+        "mode": "NULLABLE",
+        "type": "RECORD",
+        "description": null,
+        "fields": [
+          {
+            "name": "batsman",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "total",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "extras",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          }
+        ]
+      },
+      {
+        "name": "wicket",
+        "mode": "NULLABLE",
+        "type": "RECORD",
+        "description": null,
+        "fields": [
+          {
+            "name": "kind",
+            "mode": "NULLABLE",
+            "type": "STRING",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "fielders",
+            "mode": "REPEATED",
+            "type": "STRING",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "player_out",
+            "mode": "NULLABLE",
+            "type": "STRING",
+            "description": null,
+            "fields": []
+          }
+        ]
+      },
+      {
+        "name": "extras",
+        "mode": "NULLABLE",
+        "type": "RECORD",
+        "description": null,
+        "fields": [
+          {
+            "name": "wides",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "byes",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "legbyes",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          },
+          {
+            "name": "noballs",
+            "mode": "NULLABLE",
+            "type": "INTEGER",
+            "description": null,
+            "fields": []
+          }
+        ]
+      },
+      {
+        "name": "bowler",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "non_striker",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "innings",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "batsman",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "ball",
+        "mode": "NULLABLE",
+        "type": "FLOAT",
+        "description": null,
+        "fields": []
+      }
+    ]
+  },
+  {
+    "name": "playing_11",
+    "mode": "NULLABLE",
+    "type": "RECORD",
+    "description": null,
+    "fields": [
+      {
+        "name": "team2",
+        "mode": "REPEATED",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "team1",
+        "mode": "REPEATED",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "team2_name",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      },
+      {
+        "name": "team1_name",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "description": null,
+        "fields": []
+      }
+    ]
+  },
+  {
+    "name": "match_id",
+    "mode": "NULLABLE",
+    "type": "INTEGER",
+    "description": null,
+    "fields": []
+  }
+]
