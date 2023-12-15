@@ -6,3 +6,10 @@
 -- Author: Zain Muiz
 
 
+SELECT
+   *
+FROM
+   `cric_stats.top_all_rounders`
+ORDER BY
+   points DESC
+LIMIT 50;

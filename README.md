@@ -71,6 +71,8 @@ The project is organized into three main components:
 
 ## Architecture
 
+![Architecture](image.png)
+
 1. **Data Ingestion:**
 
    - A new data file is dropped into the GCS bucket.
